@@ -3,6 +3,8 @@ Simple Hapi Plugin for [Mailgun](http://www.mailgun.com).
 
 ## Installation
 
+`npm install hapi-mailgun`
+
 ## Usage overview
 
 This plugin is based on [mailgun-js](https://github.com/1lobby/mailgun-js) and is just a simple wrapper plugin for sending raw text and HTML emails.
