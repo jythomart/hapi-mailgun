@@ -1,0 +1,20 @@
+{
+  "name": "hapi-mailgun",
+  "version": "0.0.1",
+  "description": "Hapi Plugin for mailgun",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jythomart/hapi-mailgun.git"
+  },
+  "author": "jythomart",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "mailcomposer": "^3.7.0",
+    "mailgun-js": "^0.7.7"
+  }
+}
