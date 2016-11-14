@@ -14,7 +14,7 @@ Please see [Mailgun Documentation](https://documentation.mailgun.com) for full M
 The mailgun configuration should be passed at the plugin registration as option parameters with the following format:
 
 ```json
-{ "api_key": "key-XXXXXXXXXXXXXXXXXXXXXXX", "domain": "mydomain.mailgun.org" }
+{ "apiKey": "key-XXXXXXXXXXXXXXXXXXXXXXX", "domain": "mydomain.mailgun.org" }
 ```
 
 ### Example usage
